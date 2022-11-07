@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mathiaswakgari
-- 🌱 I’m currently learning Software Enginnering
+- 🌱 I’m currently learning React.
 - 📫 How to reach me - mathiaswakgari@gmail.com
 
 <!---
