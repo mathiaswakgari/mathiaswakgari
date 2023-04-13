@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mathiaswakgari
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Flutter.
 - 📫 How to reach me - mathiaswakgari@gmail.com
 
 <!---
